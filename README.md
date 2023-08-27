@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @husen-h
 - 👀 I’m interested in Frontend development, Swift, algorithms and more!
-- 🌱 I’m currently learning everything I can get my hands on
+- My leetcode is https://leetcode.com/khusen/
 
 <!---
 husen-h/husen-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
